@@ -1,0 +1,106 @@
++*In[1]:*+
+[source, ipython3]
+----
+pi=float(input("enter value"));       #Q#4
+r=int(input("enter value"));
+a=(pi*r*r);
+print(a)
+----
+
+
++*Out[1]:*+
+----
+enter value3.14
+enter value25
+1962.5
+----
+
+
++*In[2]:*+
+[source, ipython3]
+----
+a=int(input("enter number"));      #Q#6
+b=int(input("enter number"));
+c=(a+b);
+print(c)
+----
+
+
++*Out[2]:*+
+----
+enter number36
+enter number64
+100
+----
+
+
++*In[3]:*+
+[source, ipython3]
+----
+a=str(input("enter first name"));    # Q#5
+b=str(input("enter last name"));
+c=(b+" "+a)
+print(c)
+----
+
+
++*Out[3]:*+
+----
+enter first namefaisal
+enter last namehasan
+hasan faisal
+----
+
+
++*In[4]:*+
+[source, ipython3]
+----
+print("1-jan-2022")  #Q3
+----
+
+
++*Out[4]:*+
+----
+1-jan-2022
+----
+
+
++*In[12]:*+
+[source, ipython3]
+----
+print("current python version is 3.6")   #Q2
+----
+
+
++*Out[12]:*+
+----
+current python version is 3.6
+----
+
+
++*In[11]:*+
+[source, ipython3]
+----
+print("twinkle,twinkle,littlestar,\n        How wonder what you are!\n              Up above the world so high,\n              Like a diamond in the sky\nTwinkle,Twinkle,little star\n        How I wonder what you are")
+
+
+#Q#1
+----
+
+
++*Out[11]:*+
+----
+twinkle,twinkle,littlestar,
+        How wonder what you are!
+              Up above the world so high,
+              Like a diamond in the sky
+Twinkle,Twinkle,little star
+        How I wonder what you are
+----
+
+
++*In[ ]:*+
+[source, ipython3]
+----
+
+----
